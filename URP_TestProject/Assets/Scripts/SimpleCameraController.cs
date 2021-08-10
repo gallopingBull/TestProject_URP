@@ -3,7 +3,9 @@ using UnityEngine.InputSystem;
 #endif
 
 using UnityEngine;
-
+/// <summary>
+/// /
+/// </summary>
 namespace UnityTemplateProjects
 {
     public class SimpleCameraController : MonoBehaviour
